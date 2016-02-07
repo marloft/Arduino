@@ -1,0 +1,1 @@
+This Lab is designed to get students familiar with the Temboo Internet of Things stack of APIs. In this Lab, we connect the Arduino Light sensor to a Google Spreadsheet, which records and graphs sensor data.
